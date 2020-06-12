@@ -1,0 +1,14 @@
+{
+    "display_name":"Updated User",
+    "email":"updatedmailId@gtj.com",
+    "phone": 1234567890,
+    "shipping_address": {
+        "attention": "Update User",
+        "street": "23rd Floor, 3rd Avenue",
+        "city": "Beverly Hills",
+        "state": "CA",
+        "zip": 90213,
+        "country": "U.S.A",
+        "fax": 4527389
+    }
+}

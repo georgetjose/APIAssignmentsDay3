@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12721" started-at="2020-06-12T17:58:43 IST" finished-at="2020-06-12T17:58:56 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12721" started-at="2020-06-12T17:58:43 IST" finished-at="2020-06-12T17:58:56 IST">
+      <class name="zoho.CustomerOperations">
+        <test-method status="PASS" signature="CustomerActions()[pri:0, instance:zoho.CustomerOperations@57536d79]" name="CustomerActions" duration-ms="12662" started-at="2020-06-12T17:58:43 IST" finished-at="2020-06-12T17:58:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CustomerActions -->
+      </class> <!-- zoho.CustomerOperations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
